@@ -1,0 +1,8 @@
+# Node
+Node_modules/
+npm-debug.log
+.env
+
+#editor configs
+.vscode/
+.Ds_Store
